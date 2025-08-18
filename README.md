@@ -1,1 +1,1 @@
-Projeto que consiste em fazer uma lista com o nome do produto e o valor no estilo ToDo List.
+Projeto que consiste em fazer uma lista com o nome do produto, valor do produto e valor total no estilo ToDo List.
